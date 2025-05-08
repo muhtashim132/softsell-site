@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# SoftSell - Software License Resale Landing Page
 
-## Getting Started
+A responsive, modern one-page marketing website for a fictional software license resale startup called **SoftSell**.
 
-First, run the development server:
+---
+
+## 🚀 Features Implemented
+
+### ✅ Core Sections
+- **Hero Section** – Headline, subheading, and CTA button ("Sell My Licenses")
+- **How It Works** – 3-step explanation with icons
+- **Why Choose Us** – Four selling points with icons
+- **Customer Testimonials** – Two example reviews with name, role, and company
+- **Contact Form** – Name, Email, Company, License Type (dropdown), and Message (frontend validation only)
+
+### 🎨 UI/UX Design
+- Built with **Next.js** and **Tailwind CSS**
+- Fully **responsive** on mobile, tablet, and desktop
+- Clean and modern layout with consistent color palette
+- Font family and spacing tuned for readability
+
+
+## 🛠️ Tech Stack
+
+| Tool         | Purpose                     |
+|--------------|-----------------------------|
+| Next.js      | React framework for SSR/SPA |
+| Tailwind CSS | Utility-first styling       |
+| Framer Motion| Animations and transitions  |
+| Vercel       | Hosting and deployment      |
+| GitHub       | Source control              |
+
+
+ 📦 Getting Started (For Developers)
+
+Clone the repository and install dependencies:
 
 ```bash
+git clone https://github.com/muhtashim132/softsell-site.git
+cd softsell-site
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Deployment
+Deployed on Vercel:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🔗 Live URL: https://softsell.vercel.app
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+⏱️ Time Spent
+Task	Time
+Initial Setup	30 mins
+Section Layout & Styling	1.5 hours
+Responsive Adjustments	30 mins
+Bonus Features	1 hour
+README & Deployment	30 mins
+Total	~4 hours
