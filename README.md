@@ -45,7 +45,7 @@ npm run dev
 Deployment
 Deployed on Vercel:
 
-🔗 Live URL: https://softsell.vercel.app
+🔗 Live URL: https://softsell-site-beev.vercel.app/
 
 ⏱️ Time Spent
 Task	Time
