@@ -2,10 +2,12 @@
 export default function Home() {
   return (
     <main className="min-h-screen bg-gray-50 text-gray-900">
-      {/* Header / Logo */}
-      <header className="p-4 bg-white shadow-md flex justify-center">
-        <div className="text-xl font-bold text-blue-600">SoftSell</div>
-      </header>
+  {/* Header / Logo */}
+  <header className="p-4 bg-white shadow-md flex justify-center">
+    <div className="border border-blue-600 text-blue-600 text-2xl font-bold px-4 py-2 rounded bg-white">
+      SoftSell
+    </div>
+  </header>
 
       {/* Hero Section */}
       <section className="text-center py-20 px-4">
