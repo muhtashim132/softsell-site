@@ -1,5 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import AIChatWidget from './AIChatWidget'; // Import the AI Chat Widget
 
 // Font imports
 const geistSans = Geist({
@@ -51,6 +52,9 @@ export default function RootLayout({ children }) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+
+        {/* Add the AI Chat Widget */}
+        <AIChatWidget />
       </body>
     </html>
   );

@@ -40,7 +40,8 @@ git clone https://github.com/muhtashim132/softsell-site.git
 cd softsell-site
 npm install
 npm run dev
-
+npm install framer-motion
+npm install react-chatbot-kit axios
 
 Deployment
 Deployed on Vercel:
@@ -52,6 +53,9 @@ Task	Time
 Initial Setup	30 mins
 Section Layout & Styling	1.5 hours
 Responsive Adjustments	30 mins
-Bonus Features	1 hour
+Bonus Features	2 hour 
+- SEO meta tags and page title	
+- Light/dark mode toggle	
+- Use of animations ( Framer Motion)
 README & Deployment	30 mins
-Total	~4 hours
+Total	~5 hours
