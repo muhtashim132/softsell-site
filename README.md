@@ -53,9 +53,14 @@ Task	Time
 Initial Setup	30 mins
 Section Layout & Styling	1.5 hours
 Responsive Adjustments	30 mins
-Bonus Features	2 hour 
+Bonus Features 3 hour 
 - SEO meta tags and page title	
 - Light/dark mode toggle	
 - Use of animations ( Framer Motion)
+LLM-Powered Chat Feature
+- Add a basic AI-powered customer chat widget.	
+- Use an open-source wrapper like Langchain or OpenAI API	
+- Hardcode example questions (e.g., 'How do I sell my license?')	
+- LLM can be mocked or real 	
 README & Deployment	30 mins
-Total	~5 hours
+Total	~6 hours
