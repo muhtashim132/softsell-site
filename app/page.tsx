@@ -74,7 +74,7 @@ export default function Home() {
             <p className="mt-4 font-semibold">— Alex Turner, CTO, TechCorp</p>
           </div>
           <div className="p-6 rounded shadow" style={{ backgroundColor: 'var(--bg-color)', color: 'var(--text-color)' }}>
-            <p>"We recovered thousands in unused software with minimal effort. Highly recommended!"</p>
+            <p>&quot;We recovered thousands in unused software with minimal effort. Highly recommended!&quot;</p>
             <p className="mt-4 font-semibold">— Lisa Wong, Procurement, DataWorks</p>
           </div>
         </div>
